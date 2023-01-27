@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-21T13:10:43 EST" name="Suite" finished-at="2023-01-21T13:10:51 EST" duration-ms="7819">
+    <groups>
+    </groups>
+    <test started-at="2023-01-21T13:10:43 EST" name="Test" finished-at="2023-01-21T13:10:51 EST" duration-ms="7819">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:tests.LoginTest@3e84448c]" started-at="2023-01-21T13:10:43 EST" name="OpenBrowser" finished-at="2023-01-21T13:10:49 EST" duration-ms="5286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="EnterUserid()[pri:1, instance:tests.LoginTest@3e84448c]" started-at="2023-01-21T13:10:49 EST" name="EnterUserid" finished-at="2023-01-21T13:10:50 EST" duration-ms="861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterUserid -->
+        <test-method signature="EnterUserPassword()[pri:2, instance:tests.LoginTest@3e84448c]" started-at="2023-01-21T13:10:50 EST" name="EnterUserPassword" finished-at="2023-01-21T13:10:50 EST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterUserPassword -->
+        <test-method signature="ClickonSignInButton()[pri:3, instance:tests.LoginTest@3e84448c]" started-at="2023-01-21T13:10:50 EST" name="ClickonSignInButton" finished-at="2023-01-21T13:10:50 EST" duration-ms="407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickonSignInButton -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.LoginTest@3e84448c]" started-at="2023-01-21T13:10:50 EST" name="closeBrowser" finished-at="2023-01-21T13:10:51 EST" duration-ms="1060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
